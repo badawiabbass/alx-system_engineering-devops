@@ -1,1 +1,1 @@
-readme commit for shell
+/readme/commit
